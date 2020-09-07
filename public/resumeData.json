@@ -1,20 +1,20 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Ricardo Santos",
+    "occupation": "ReactJS Developer && React Native Developer && Backend Developer",
+    "description": "Full Stack React Developer ",
+    "image": "profilePhoto.png",
+    "bio": "My name is Ricardo, I'm a Full Stack ReactJS Developer. Currently I'm a freelancer",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "dev@ricardosantos.me",
+    "phone": "+55 75 99983-9238",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
+      "city": "Brazil",
+      "state": "BA",
       "zip": "ABC 123"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://ricardosantos.me",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
@@ -24,7 +24,7 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/rick-ssa/",
         "className": "fa fa-linkedin"
       },
       {
@@ -34,8 +34,13 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/rick-ssa",
         "className": "fa fa-github"
+      },
+      {
+        "name": "whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=5575999839238&text=Hi%20Ricardo,%20I%20am%20contacting%20you%20to%20",
+        "className": "fa fa-whatsapp"
       }
     ]
   },
