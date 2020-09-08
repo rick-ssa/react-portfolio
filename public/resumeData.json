@@ -9,10 +9,8 @@
     "email": "dev@ricardosantos.me",
     "phone": "+55 75 99983-9238",
     "address": {
-      "street": "123 Fake Street",
       "city": "Brazil",
-      "state": "BA",
-      "zip": "ABC 123"
+      "state": "BR"
     },
     "website": "https://ricardosantos.me",
     "resumedownload": "https://www.dropbox.com/s/ctwtysuz74yzluf/Resume.docx?dl=0",
@@ -43,24 +41,18 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Computer science",
+        "degree": "Computer Sciente",
+        "graduated": "in course",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Freelancer",
+        "title": "Full stack developer ReactJs, nodeJs, ExpressJs",
+        "years": "April 2018 - Present",
+        "description": "Developer system to clients"
       }
     ],
     "skills": [
@@ -93,34 +85,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "TIC TAC TOE game",
+        "category": "Tic tac toe game (javascript, html5, css)",
+        "image": "tic-tac-toe.png",
+        "url": "https://rick-ssa.github.io/tic-tac-toe/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Snake Game",
+        "category": "build a snake game to practice react js (ReactJS, NodeJS)",
+        "image": "snake.png",
+        "url": "https://snakegame.com.br/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Todo App",
+        "category": "Made a todo app for a challenge",
+        "image": "todoapp.png",
+        "url": "https://rick-ssa.github.io/task-challenge/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Personal Page",
+        "category": "Personal page to show my portfolio made with ReactJs and Firebase",
+        "image": "personal.png",
+        "url": "https://ricardosantos.me/"
       }
     ]
   },
