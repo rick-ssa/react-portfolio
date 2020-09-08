@@ -15,22 +15,17 @@
       "zip": "ABC 123"
     },
     "website": "https://ricardosantos.me",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://www.dropbox.com/s/ctwtysuz74yzluf/Resume.docx?dl=0",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/Rick.ssa/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/rick-ssa/",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
       },
       {
         "name": "github",
